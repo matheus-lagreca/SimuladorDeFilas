@@ -1,0 +1,62 @@
+Ler help antes..
+
+G/G/1/5
+
+execução 1
+
+Tempo total que 0 ficaram na fila: 3.0
+Tempo total que 1 ficaram na fila: 10.965311534368917
+Tempo total que 2 ficaram na fila: 18.716275031686543
+Tempo total que 3 ficaram na fila: 198.64987977338092
+Tempo total que 4 ficaram na fila: 92304.10927856158
+Tempo total que 5 ficaram na fila: 129687.37053604618
+perdas: 11109
+tempo Total: 222222.81128094718
+
+execução 2
+
+Tempo total que 0 ficaram na fila: 3.0
+Tempo total que 1 ficaram na fila: 11.413181172286048
+Tempo total que 2 ficaram na fila: 14.427791136750738
+Tempo total que 3 ficaram na fila: 195.69939023082833
+Tempo total que 4 ficaram na fila: 92742.01451683466
+Tempo total que 5 ficaram na fila: 129284.02194430186
+perdas: 11103
+tempo Total: 222250.57682367638
+
+execução 3
+
+Tempo total que 0 ficaram na fila: 3.0
+Tempo total que 1 ficaram na fila: 5.77072479275678
+Tempo total que 2 ficaram na fila: 17.172340573781433
+Tempo total que 3 ficaram na fila: 179.5168967292251
+Tempo total que 4 ficaram na fila: 92655.57780732663
+Tempo total que 5 ficaram na fila: 129303.8025535178
+perdas: 11138
+tempo Total: 222164.84032294017
+
+
+
+G/G/2/5
+
+execução 1
+
+Tempo total que 0 ficaram na fila: 2049.1947966622856
+Tempo total que 1 ficaram na fila: 145980.44489972704
+Tempo total que 2 ficaram na fila: 51960.135061730216
+Tempo total que 3 ficaram na fila: 0.0
+Tempo total que 4 ficaram na fila: 0.0
+Tempo total que 5 ficaram na fila: 0.0
+perdas: 0
+tempo Total: 199989.77475811954
+
+execução 2
+
+Tempo total que 0 ficaram na fila: 2104.561317645329
+Tempo total que 1 ficaram na fila: 145486.82876603707
+Tempo total que 2 ficaram na fila: 52217.0493879982
+Tempo total que 3 ficaram na fila: 0.0
+Tempo total que 4 ficaram na fila: 0.0
+Tempo total que 5 ficaram na fila: 0.0
+perdas: 0
+tempo Total: 199808.43947168058

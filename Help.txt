@@ -1,0 +1,19 @@
+Para executar o simular 
+
+java -jar simuladorMatheusLagreca.jar
+
+esta versão requer que os dados sejam digitados no console
+
+
+obs.. 
+So realize testes com valores similares aos exemplos do modulo 2
+e do simulador que foi entregue para testar.
+O simulador atual ainda não executa mais de uma vez automáticamente nem faz
+média, devido a falta de organização, porém planejo implementar essas funções
+antes da proxima entrega.
+
+obs 2..
+
+durante a validação percebi q os números aleatórios eram bem similares,
+modificarei os mesmos antes da próxima entrega. não achei necessário fazer
+média nem colocar 5x cada execução pois a diferença era minima..
